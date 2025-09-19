@@ -1,3 +1,5 @@
+package JavaBasic;
+
 public class tableOf9_withoutLoop {
     public static void main(String[] args) {
         int number = 9;
