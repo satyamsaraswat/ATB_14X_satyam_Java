@@ -9,7 +9,7 @@ public class Lab_013_PrintlnVsPrint
         System.out.print("HI");
         System.out.print("Bye");
 
-        System.out.print("HI \n");
+        System.out.print("/n HI \n");
         System.out.print("Bye");
 
 

@@ -10,5 +10,6 @@ public class Lab_011_Common_Math {
         System.out.println(3/2);
 
 
+
     }
 }
