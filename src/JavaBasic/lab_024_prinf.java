@@ -19,10 +19,9 @@ public class lab_024_prinf {
         System.out.printf("%d * %d = %d%n", number, count++, (mult++*number));
 
 
-        int aask = 8;
-        int baask = 1;
-        int caask = 1;
-        System.out.println("%d * %d = %d%n", aask, baask++, (aask*caask++));
-
+        int a = 8;
+        int b = 1;
+        int c = 1;
+        System.out.printf("%d * %d = %d%n", a, b++, (c++*a));
     }
 }
