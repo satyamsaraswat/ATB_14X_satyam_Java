@@ -1,6 +1,6 @@
 package JavaBasic.Strings;
 
-public class Lab_147A_ {
+public class Lab_147A_Replace {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Hello");
         sb.append(" World"); // Hello World
