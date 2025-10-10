@@ -15,5 +15,11 @@ String Marks[] = new String[Size];
             System.out.println("Enter the element ---> "+i);
         Marks[i] = sc.next();}
 
+        System.out.println("--Print the values");
+        for(String numb:Marks)
+        System.out.println(numb);
     }
+
+
+
 }
