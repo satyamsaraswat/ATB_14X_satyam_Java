@@ -1,4 +1,4 @@
-package JavaBasic;
+package JavaBasic.A_Initial_Java_Programs;
 
 public class Lab_029_to_034_Litreals {
     public static void main(String[] args) {

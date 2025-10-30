@@ -1,4 +1,4 @@
-package JavaBasic;
+package JavaBasic.A_Initial_Java_Programs;
 
 public class Lab_043_ConcatPlus {
     public static void main(String[] args) {

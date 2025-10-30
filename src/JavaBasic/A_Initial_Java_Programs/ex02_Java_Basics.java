@@ -1,4 +1,4 @@
-package JavaBasic;
+package JavaBasic.A_Initial_Java_Programs;
 
 public class ex02_Java_Basics {
     public static void main(String[] args) {
