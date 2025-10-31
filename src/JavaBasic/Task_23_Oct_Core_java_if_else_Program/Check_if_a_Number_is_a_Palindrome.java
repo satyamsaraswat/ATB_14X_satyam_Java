@@ -33,6 +33,7 @@ public class Check_if_a_Number_is_a_Palindrome {
 int orginial_number =number;
   while (number!=0 )
 {
+
 int digit = number%10;
  rev_number = rev_number *10+ digit;
     /*System.out.println(rev_number);*/
